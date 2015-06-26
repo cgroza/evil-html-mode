@@ -3,7 +3,7 @@ Evil-html-mode is a Spacemacs layers that offers Spacemacs-style keybindings for
 
 ##Keybindings
 Keybindibgs                         |Description
----------------------------------------------------------------------------------
+------------------------------------|------------------------------------------
 <kbd>SPC  m J</kbd>                 | html-line
 <kbd>SPC  m p</kbd>                 | html-paragraph
 <kbd>SPC  m S</kbd>                 | html-autoview-mode
