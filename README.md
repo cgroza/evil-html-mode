@@ -2,7 +2,8 @@
 Evil-html-mode is a Spacemacs layers that offers Spacemacs-style keybindings for  Emacs' HTML-mode.
 
 ##Keybindings
-Keybindibgs                   |Description
+Keybindibgs                         |Description
+---------------------------------------------------------------------------------
 <kbd>SPC  m J</kbd>                 | html-line
 <kbd>SPC  m p</kbd>                 | html-paragraph
 <kbd>SPC  m S</kbd>                 | html-autoview-mode
@@ -30,15 +31,15 @@ Keybindibgs                   |Description
 <kbd>SPC  m D</kbd>                 | sgml-delete-tag
 <kbd>SPC  m h</kbd>                 | sgml-skip-tag-backward
 <kbd>SPC  m l</kbd>                 | sgml-skip-tag-forward
-<kbd>SPC  m C -</kbd>                | html-horizontal-rule
-<kbd>SPC  m C c</kbd>                | html-checkboxes
-<kbd>SPC  m C h</kbd>                | html-href-anchor
-<kbd>SPC  m C i</kbd>                | html-image
-<kbd>SPC  m C l</kbd>                | html-list-item
-<kbd>SPC  m C n</kbd>                | html-name-anchor
-<kbd>SPC  m C o</kbd>                | html-ordered-list
-<kbd>SPC  m C r</kbd>                | html-radio-buttons
-<kbd>SPC  m C u</kbd>                | html-unordered-list
+<kbd>SPC  m C -</kbd>               | html-horizontal-rule
+<kbd>SPC  m C c</kbd>               | html-checkboxes
+<kbd>SPC  m C h</kbd>               | html-href-anchor
+<kbd>SPC  m C i</kbd>               | html-image
+<kbd>SPC  m C l</kbd>               | html-list-item
+<kbd>SPC  m C n</kbd>               | html-name-anchor
+<kbd>SPC  m C o</kbd>               | html-ordered-list
+<kbd>SPC  m C r</kbd>               | html-radio-buttons
+<kbd>SPC  m C u</kbd>               | html-unordered-list
   
 ## Maintainer
 Created by @cgroza. Feel free to PM suggestions.
