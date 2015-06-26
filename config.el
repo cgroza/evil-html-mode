@@ -1,3 +1,14 @@
+;;; config.el --- evil-html-mode Layer extensions File for Spacemacs
+;;
+;; Copyright (c) 2015-2016 Cristian Groza
+;;
+;; Author: Cristian Groza
+;; URL: https://github.com/cgroza/evil-html-mode
+;;
+;; This file is not part of GNU Emacs.
+;;
+;;; License: GPLv3
+
 (require 'sgml-mode)
 
 (setq spacemacs/key-binding-prefixes '(("mC" . "HTML Objects")))

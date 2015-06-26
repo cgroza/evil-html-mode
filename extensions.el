@@ -1,4 +1,4 @@
-;;; extensions.el --- Config Layer extensions File for Spacemacs
+;;; extensions.el --- evil-html-mode Layer extensions File for Spacemacs
 ;;
 ;; Copyright (c) 2012-2014 Sylvain Benner
 ;; Copyright (c) 2014-2015 Sylvain Benner & Contributors
