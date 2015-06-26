@@ -11,7 +11,6 @@
 
 (require 'sgml-mode)
 
-(setq spacemacs/key-binding-prefixes '(("mC" . "HTML Objects")))
 (evil-leader/set-key-for-mode 'html-mode
   "mJ" 'html-line
   "mp" 'html-paragraph
