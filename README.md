@@ -3,42 +3,42 @@ Evil-html-mode is a Spacemacs layers that offers Spacemacs-style keybindings for
 
 ##Keybindings
 Keybindibgs                   |Description
-<kbd>SPC  m J                 | html-line
-<kbd>SPC  m p                 | html-paragraph
-<kbd>SPC  m S                 | html-autoview-mode
-<kbd>SPC  m V                 | browse-url-of-buffer
-<kbd>SPC  m 1                 | html-headline-1
-<kbd>SPC  m 2                 | html-headline-2
-<kbd>SPC  m 3                 | html-headline-3
-<kbd>SPC  m 4                 | html-headline-4
-<kbd>SPC  m 5                 | html-headline-5
-<kbd>SPC  m 6                 | html-headline-6
-<kbd>SPC  m a                 | sgml-attributes
-<kbd>SPC  m b                 | sgml-skip-tag-backward
-<kbd>SPC  m d                 | sgml-delete-tag
-<kbd>SPC  m e                 | sgml-close-tag
-<kbd>SPC  m f                 | sgml-skip-tag-forward
-<kbd>SPC  m B                 | sgml-tags-invisible
-<kbd>SPC  m n                 | sgml-name-char
-<kbd>SPC  m o                 | sgml-tag
-<kbd>SPC  m t                 | sgml-tag
-<kbd>SPC  m v                 | sgml-validate
-<kbd>SPC  m c                 | sgml-close-tag
-<kbd>SPC  m 8                 | sgml-name-8bit-mode
-<kbd>SPC  m ?                 | sgml-tag-help
-<kbd>SPC  m c                 | sgml-close-tag
-<kbd>SPC  m D                 | sgml-delete-tag
-<kbd>SPC  m h                 | sgml-skip-tag-backward
-<kbd>SPC  m l                 | sgml-skip-tag-forward
-<kbd>SPC  m C -                | html-horizontal-rule
-<kbd>SPC  m C c                | html-checkboxes
-<kbd>SPC  m C h                | html-href-anchor
-<kbd>SPC  m C i                | html-image
-<kbd>SPC  m C l                | html-list-item
-<kbd>SPC  m C n                | html-name-anchor
-<kbd>SPC  m C o                | html-ordered-list
-<kbd>SPC  m C r                | html-radio-buttons
-<kbd>SPC  m C u                | html-unordered-list
+<kbd>SPC  m J</kbd>                 | html-line
+<kbd>SPC  m p</kbd>                 | html-paragraph
+<kbd>SPC  m S</kbd>                 | html-autoview-mode
+<kbd>SPC  m V</kbd>                 | browse-url-of-buffer
+<kbd>SPC  m 1</kbd>                 | html-headline-1
+<kbd>SPC  m 2</kbd>                 | html-headline-2
+<kbd>SPC  m 3</kbd>                 | html-headline-3
+<kbd>SPC  m 4</kbd>                 | html-headline-4
+<kbd>SPC  m 5</kbd>                 | html-headline-5
+<kbd>SPC  m 6</kbd>                 | html-headline-6
+<kbd>SPC  m a</kbd>                 | sgml-attributes
+<kbd>SPC  m b</kbd>                 | sgml-skip-tag-backward
+<kbd>SPC  m d</kbd>                 | sgml-delete-tag
+<kbd>SPC  m e</kbd>                 | sgml-close-tag
+<kbd>SPC  m f</kbd>                 | sgml-skip-tag-forward
+<kbd>SPC  m B</kbd>                 | sgml-tags-invisible
+<kbd>SPC  m n</kbd>                 | sgml-name-char
+<kbd>SPC  m o</kbd>                 | sgml-tag
+<kbd>SPC  m t</kbd>                 | sgml-tag
+<kbd>SPC  m v</kbd>                 | sgml-validate
+<kbd>SPC  m c</kbd>                 | sgml-close-tag
+<kbd>SPC  m 8</kbd>                 | sgml-name-8bit-mode
+<kbd>SPC  m ?</kbd>                 | sgml-tag-help
+<kbd>SPC  m c</kbd>                 | sgml-close-tag
+<kbd>SPC  m D</kbd>                 | sgml-delete-tag
+<kbd>SPC  m h</kbd>                 | sgml-skip-tag-backward
+<kbd>SPC  m l</kbd>                 | sgml-skip-tag-forward
+<kbd>SPC  m C -</kbd>                | html-horizontal-rule
+<kbd>SPC  m C c</kbd>                | html-checkboxes
+<kbd>SPC  m C h</kbd>                | html-href-anchor
+<kbd>SPC  m C i</kbd>                | html-image
+<kbd>SPC  m C l</kbd>                | html-list-item
+<kbd>SPC  m C n</kbd>                | html-name-anchor
+<kbd>SPC  m C o</kbd>                | html-ordered-list
+<kbd>SPC  m C r</kbd>                | html-radio-buttons
+<kbd>SPC  m C u</kbd>                | html-unordered-list
   
 ## Maintainer
 Created by @cgroza. Feel free to PM suggestions.
